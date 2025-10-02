@@ -224,22 +224,24 @@ And nobody gives a flying, one foot long, soaring shit fuck about your mental he
 
 #### Images
 
-![main_post](main_post.png)
-![blu_resp](blu_resp.png)
-#### PDFs
-![main_post](main_post.pdf)
+![main_post](./images/constell%20dms/main_post.png)
+![blu_resp](./images/constell%20dms/blu_resp.png)
 
-![blu_resp](blu_resp.pdf)
+#### PDFs
+
+[main_post](./pdfs/constell%20dms/main_post.pdf)
+[blu_resp](./pdfs/constell%20dms/blu_resp.pdf)
 
 ### DM Images
-![Image 1](hunter_constel_dm_1.png)
 
-![Image 2](hunter_constel_dm_2.png)
+![Image 1](./images/constell%20dms/hunter_constel_dm_1.png)
 
-![Image 3](hunter_constel_dm_3.png)
+![Image 2](./images/constell%20dms/hunter_constel_dm_2.png)
 
-![Image 4](hunter_constel_dm_4.png)
+![Image 3](./images/constell%20dms/hunter_constel_dm_3.png)
 
-![Image 5](hunter_constel_dm_5.png)
+![Image 4](./images/constell%20dms/hunter_constel_dm_4.png)
 
-![Image 6](hunter_constel_dm_6.png)
+![Image 5](./images/constell%20dms/hunter_constel_dm_5.png)
+
+![Image 6](./images/constell%20dms/hunter_constel_dm_6.png)

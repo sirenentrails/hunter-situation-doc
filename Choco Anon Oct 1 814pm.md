@@ -63,6 +63,6 @@ For once in your pathetic life Dani actually listen to Choco and shut your disgu
 ---
 ## Image
 ### PNG
-![](Choco%20Anon%20Oct%201%20814pm.png)
+![](./images/Choco%20Anon%20Oct%201%20814pm.png)
 ### PDF
-![](Choco%20Anon%20Oct%201%20814pm.pdf)
+[PDF](./pdfs/Choco%20Anon%20Oct%201%20814pm.pdf)

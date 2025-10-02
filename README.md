@@ -12,6 +12,8 @@ One day I will put or label things chronologically.
 
 This set up also allows an easier way to include transcriptions of screenshots for easier reading / viewing and to be more friendly for screen readers.
 
+[Rentry Link For Initial Doc](https://rentry.co/d8r4a4hc)
+
 ## Current Pages
 
 [Hunter's Apology and the ensuing cluster fuck](Hunter's%20Apology%20and%20the%20ensuing%20cluster%20fuc.md)

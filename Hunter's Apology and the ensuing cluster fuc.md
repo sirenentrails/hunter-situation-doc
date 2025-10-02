@@ -1,5 +1,13 @@
+> this piece is a wip.
+
+Reblog this was sourced from in it's entirety:
+**Date -** Tue, Oct 2 2025, 11:21am MDT
+[Source](https://www.tumblr.com/infinite-proship-choco/796315554382233600?source=share)
 ## Transcription
-### Main Post
+### Apology
+
+**Date -** Wed, Oct 1 2025, 10:12pm MDT
+[Source](https://www.tumblr.com/im-so-fucking-tired11/796265889437794304?source=share)
 #### **im-so-fucking-tired11**
             The apology post
             
@@ -124,7 +132,6 @@ I WILL BE TAGGING BOTH PRO AND ANTI TAGS BECAUSE THOSE ARE THE AUDIENCES I AM TA
 
 
 ### Response Chain 1
-Avatar
 #### **infinite-proship-choco**
 
 ##### Image Transcription
@@ -187,11 +194,6 @@ Reblog by @antiharmfulcontactparaphile1
 Tumblr
 
 ###### You fake suicide for breakfast lunch and dinner, about as much as you sexually harass people.
-
-
-
-
-
 
 ###### "for clicks and views" YOU'VE BEEN ONLINE LESS THAN A YEAR, GET OFF YOUR HIGH HORSE, **NO ONE KNOWS OR WANTS TO HEAR YOU FUCKING BARF ABOUT YOURSELF AND HOW  IMPORTANT YOU'RE NOT TO EVERY POPULAR BLOG YOU RUN YOUR MOUTH TO.**
 

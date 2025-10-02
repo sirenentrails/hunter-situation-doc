@@ -27,7 +27,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "hunter mega doc/images/hunter apology 2/fizz_dm_2.png"
+                "file": "images/hunter apology 2/fizz_dm_2.png"
               },
               "icon": "lucide-image",
               "title": "fizz_dm_2"
@@ -179,27 +179,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f130ecf1c94132b1",
   "lastOpenFiles": [
-    "hunter mega doc/images/hunter apology 2/fizz_dm_1.png",
+    "hunter call out constell dms.md",
     "Hunter's Apology and the ensuing cluster fuc.md",
-    "Hunter sending Choco an Anon on Oct 1st 2025.md",
-    "hunter mega doc/images/hunter apology 2/fizz_dm_4.jpg",
+    "Choco Anon Oct 1 814pm.md",
+    "Rentry stuff to deal with/text.md",
+    "Rentry stuff to deal with/main.md",
+    "pdfs/Choco Anon Oct 1 814pm.pdf",
+    "images/Choco Anon Oct 1 814pm.png",
+    "Rentry stuff to deal with",
+    "Rentry stuff to deal with/images.md",
+    "hunter mega doc/README.md",
+    "images/hunter apology 2/fizz_dm_1.png",
+    "images/hunter apology 2/fizz_dm_4.jpg",
     "hunter mega doc/images/hunter apology 2/Unconfirmed 747905.crdownload",
-    "hunter mega doc/images/hunter apology 2/fizz_dm_3.jpg",
+    "images/hunter apology 2/fizz_dm_3.jpg",
     "hunter mega doc/images/hunter apology 2/Unconfirmed 359108.crdownload",
-    "hunter mega doc/pdfs/constell dms/main_post.pdf",
-    "hunter mega doc/images/hunter apology 2/fizz_dm_2.png",
-    "hunter mega doc/images/hunter apology 2",
-    "hunter mega doc/hunter call out constell dms.md",
-    "hunter mega doc/images/constell dms/main_post.png",
-    "hunter mega doc/images/constell dms/blu_resp.png",
-    "hunter mega doc/pdfs/constell dms/blu_resp.pdf",
-    "hunter mega doc/pdfs/constell dms",
-    "hunter mega doc/pdfs",
+    "pdfs/constell dms/main_post.pdf",
+    "images/hunter apology 2/fizz_dm_2.png",
+    "images/hunter apology 2",
+    "images/constell dms/main_post.png",
+    "images/constell dms/blu_resp.png",
+    "pdfs/constell dms/blu_resp.pdf",
+    "pdfs/constell dms",
+    "pdfs",
     "hunter.md"
   ]
 }

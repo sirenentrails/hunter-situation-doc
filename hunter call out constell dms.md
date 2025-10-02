@@ -1,8 +1,9 @@
-# Hunter / Caleb / Dani DMs to Constell??
-
+**Date -** Wed, Oct 1 2025, 7:23pm MDT
+[Source](https://www.tumblr.com/the-eternalized-constellation/796255253341339648?source=share)
 ## Transcription
 
-**the-eternalized-constellation**
+### **the-eternalized-constellation**
+#### Transcription
 
 Remember to block Dani's new blog @/im-so-fucking-tired11
 
@@ -14,9 +15,9 @@ It's unfortunate, but it's true.
 
 [Transcription Continued](#Transcription%20Continued)
 
-### Images in post
+#### Images in post
 
-#### Img 1
+##### Img 1
 
 > **im-so-fucking-tired11**
 > place of frustration and tiredness and an attempt of redemption...if you would phrase it like that
@@ -38,7 +39,7 @@ It's unfortunate, but it's true.
 > \--
 > I cannot make an apology post over night, there is too much to go over and I am too much of a busy person, I ask for time and space, I get hit with my account being banned, I don't want to have this attitude but it really feels like no one wants to see me get better
 
-#### Img 2
+##### Img 2
 
 > **im-so-fucking-tired11** _(Not following each other)_
 > hey
@@ -58,7 +59,7 @@ It's unfortunate, but it's true.
 > and yes this is Dani/Hunter
 > _(Sent Today 6:22 PM)_
 
-#### Img 3
+##### Img 3
 
 > **im-so-fucking-tired11**
 > God why are they such a pussy
@@ -88,7 +89,7 @@ It's unfortunate, but it's true.
 > But if you want to apologize, then change. Don't make a doc. Don't make a tiktok. Change your behavior and make a proper apology to everyone in this situation.
 > _(Sent Today 7:40 PM)_
 
-#### Img 4
+##### Img 4
 
 > **im-so-fucking-tired11**
 > they have the inability to take accountability or realize what they're doing is wrong because they have a God complex and believe that just because they are a proshipper means they cant do anything wrong
@@ -107,7 +108,7 @@ It's unfortunate, but it's true.
 > Bro literally any account is existance gets more interactions on drama than normal posts
 > _(Sent Today 7:52 PM)_
 
-#### Img 5
+##### Img 5
 
 > **Constell** 
 > [tumblr link 1] 
@@ -131,7 +132,7 @@ It's unfortunate, but it's true.
 > I mean you also wish death on proshippers who haven't hurt you so.
 > _(Sent Today 7:56 PM)_
 
-#### Img 6
+##### Img 6
 
 > **im-so-fucking-tired11**
 > i apologized and explained myself twice! "I'm not manipulating anyone i said "I'm sorry it was a poor attempt at a joke and there was no bad intentions behind it" I didn't say that exactly but you get the point
@@ -160,15 +161,15 @@ It's unfortunate, but it's true.
 > An apology without change is just manipulation. Remember that.
 > _(Sent Today 8:18 PM)_
 
-### Transcription Continued
+#### Transcription Continued
 
-**the-eternalized-constellation** *(continued*
+*(continued)*
 
 @infinite-proship-choco @maggotsinmyskin @strawberry-fiz I forget the other tags sorry. 
 
 ---
 
-**infinite-proship-choco**
+### **infinite-proship-choco**
 
 - "Choco started it!' Evidence proves otherwise.
 - "Choco's a pussy by not talking to me!" No one is obliged to talk to you, so you can once again claim you're a poor minor getting bullied.
@@ -197,7 +198,7 @@ Stay a footnote on the internet, stay silent, keep mine and everyone's name out 
 
 ---
 
-**blu-of-cluz**
+### **blu-of-cluz**
 
 “I’m a busy person! You keep terminating me when you want an apology!”
 
@@ -231,14 +232,14 @@ And nobody gives a flying, one foot long, soaring shit fuck about your mental he
 ![blu_resp](blu_resp.pdf)
 
 ### DM Images
-![Image 1](./images/constell%20dms/hunter_constel_dm_1.png)
+![Image 1](hunter_constel_dm_1.png)
 
-![Image 2](./images/constell%20dms/hunter_constel_dm_2.png)
+![Image 2](hunter_constel_dm_2.png)
 
-![Image 3](./images/constell%20dms/hunter_constel_dm_3.png)
+![Image 3](hunter_constel_dm_3.png)
 
-![Image 4](./images/constell%20dms/hunter_constel_dm_4.png)
+![Image 4](hunter_constel_dm_4.png)
 
-![Image 5](./images/constell%20dms/hunter_constel_dm_5.png)
+![Image 5](hunter_constel_dm_5.png)
 
-![Image 6](./images/constell%20dms/hunter_constel_dm_6.png)
+![Image 6](hunter_constel_dm_6.png)

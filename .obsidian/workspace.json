@@ -10,15 +10,17 @@
           {
             "id": "f130ecf1c94132b1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter's Apology and the ensuing cluster fuc.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Hunter's Apology and the ensuing cluster fuc"
+              "title": "README"
             }
           },
           {
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter's Apology and the ensuing cluster fuc.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hunter's Apology and the ensuing cluster fuc"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -125,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter's Apology and the ensuing cluster fuc.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hunter's Apology and the ensuing cluster fuc"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hunter's Apology and the ensuing cluster fuc.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hunter's Apology and the ensuing cluster fuc"
+              "title": "Outline of README"
             }
           }
         ]
@@ -185,29 +187,39 @@
   },
   "active": "f130ecf1c94132b1",
   "lastOpenFiles": [
-    "hunter call out constell dms.md",
-    "Hunter's Apology and the ensuing cluster fuc.md",
-    "Choco Anon Oct 1 814pm.md",
-    "Rentry stuff to deal with/text.md",
     "Rentry stuff to deal with/main.md",
+    "README.md",
+    "Hunter defining harassment.md",
+    "Hunter's Apology and the ensuing cluster fuc.md",
+    "hunter call out constell dms.md",
+    "Chroma ask about Choco Oct 3.md",
+    "Choco Sexual Harassment.md",
+    "choco_last_word_from_dani.md",
+    "blue_of_cluz_dani_tiktok_accent_debacle.md",
+    "images/hunter_harassment/hunter_harassment_choco.png",
+    "pdfs/hunter_harassment_choco.pdf",
+    "images/hunter_harassment/hunter_harassment_definition_blu.png",
+    "pdfs/hunter_harassment_definition_blu.pdf",
+    "images/hunter_harassment/hunter_harassment_definition_9.png",
+    "images/hunter_harassment/hunter_harassment_definition_10.png",
+    "images/hunter_harassment/hunter_harassment_definition_8.png",
+    "images/hunter_harassment/hunter_harassment_definition_7.png",
+    "images/hunter_harassment/hunter_harassment_definition_6.png",
+    "images/hunter_harassment/hunter_harassment_definition_5.png",
+    "images/hunter_harassment/hunter_harassment_definition_4.png",
+    "images/hunter_harassment/hunter_harassment_definition_1.png",
+    "pdfs/blue_of_cluz_dani_tiktok_accent_debacle.pdf",
+    "Choco Anon Oct 1 814pm.md",
+    "pdfs/choco_last_word_from_dani.pdf",
+    "images/choco_sexual_harassment",
+    "images/hunter_harassment",
+    "pdfs/choco_sexual_harassment.pdf",
+    "Rentry stuff to deal with/text.md",
     "pdfs/Choco Anon Oct 1 814pm.pdf",
-    "images/Choco Anon Oct 1 814pm.png",
     "Rentry stuff to deal with",
     "Rentry stuff to deal with/images.md",
     "hunter mega doc/README.md",
-    "images/hunter apology 2/fizz_dm_1.png",
-    "images/hunter apology 2/fizz_dm_4.jpg",
     "hunter mega doc/images/hunter apology 2/Unconfirmed 747905.crdownload",
-    "images/hunter apology 2/fizz_dm_3.jpg",
-    "hunter mega doc/images/hunter apology 2/Unconfirmed 359108.crdownload",
-    "pdfs/constell dms/main_post.pdf",
-    "images/hunter apology 2/fizz_dm_2.png",
-    "images/hunter apology 2",
-    "images/constell dms/main_post.png",
-    "images/constell dms/blu_resp.png",
-    "pdfs/constell dms/blu_resp.pdf",
-    "pdfs/constell dms",
-    "pdfs",
     "hunter.md"
   ]
 }

@@ -1,4 +1,4 @@
-> this piece is a wip.
+> this is a wip
 
 Reblog this was sourced from in it's entirety:
 **Date -** Tue, Oct 2 2025, 11:21am MDT
